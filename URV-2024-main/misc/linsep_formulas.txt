@@ -1,0 +1,12 @@
+Linearly Separable Sat Problems:
+
+4-Boolean Tautology:
+1. (A or B or C or D or not A)
+2. (A or not A) and (B or not B) and (C or not C) and (D or not D)
+3. (A or B) or (B or C) or (C or D) or (not B) 
+
+4-bool UN-SAT:
+1. (A and B and C and not D) 
+2. (A or B) and (B and not B) and (C and D) 
+3. (B or C) or (A and D) and ((not B and not D and not A))
+
